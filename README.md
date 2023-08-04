@@ -6,10 +6,13 @@
 # Hello Guys, I'm Rodrigo Soares 🧑‍💻
 
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rodrigosoares&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+ <img src="https://media.tenor.com/wJYhvjxFVnwAAAAC/overwatch-mercy.gif" width="180">
+
+
   
 ## **Overview 👉**
 <p>ME DESCREVER</p>
+
 
 <br><br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b><b>"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
