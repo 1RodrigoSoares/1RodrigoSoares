@@ -1,14 +1,22 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
-
-### Olá queridos! Rodrigo Soares aqui 😄
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=HELLO+WORLD:%29)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=1rodrigosoares&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=08B8B&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Soares github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rodrigosoares&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+ 
 
-### Main skills:
+# Hello Guys, I'm Rodrigo Soares 🧑‍💻
+
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rodrigosoares&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+  
+## **Overview 👉**
+<p>ME DESCREVER</p>
+
+<br><br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b><b>"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
+<br><br>
+
+
+### Skills:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,8 +35,6 @@
 <a href = "mailto:devrodrigosoares@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rodrigo-soares-de-assis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 
 <!--
 **1RodrigoSoares/1RodrigoSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
