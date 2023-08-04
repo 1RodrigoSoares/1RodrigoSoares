@@ -10,7 +10,7 @@
  <img src="https://media.tenor.com/wJYhvjxFVnwAAAAC/overwatch-mercy.gif" width="180">
 
 ## **Overview 👉**
-<p>Hi, my name is Rodrigo Soares and I'm studying information systems at UFJF. I got into coding because I think it's amazing how, from just one computer and its knowledge, you can have a world of possibilities. When I'm not coding I like to play online and listen to music! 🎶
+<p>Hi, my name is Rodrigo Soares and I'm studying information systems at UFJF. I got into coding because I think it's amazing how, from just one computer and its knowledge, you can have a world of possibilities. When I'm not coding I like to play online, go to the gym and listen to music! 🎶
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b><b>"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
