@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=35&duration=6000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hello+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hello+World)](https://git.io/typing-svg)
 <div align="center">  
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=1rodrigosoares&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=08B8B&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Soares github stats" /> 
@@ -10,7 +10,8 @@
  <img src="https://media.tenor.com/wJYhvjxFVnwAAAAC/overwatch-mercy.gif" width="180">
 
 ## **Overview 👉**
-<p>ME DESCREVER</p>
+<p>Hi, my name is Rodrigo Soares and I'm studying information systems at UFJF. I got into coding because I think it's amazing how, from just one computer and its knowledge, you can have a world of possibilities. When I'm not coding I like to play online and listen to music! 🎶
+</p>
 
 
 <br><br>
